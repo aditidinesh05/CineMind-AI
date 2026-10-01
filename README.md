@@ -16,7 +16,7 @@ You don't need to search for a specific movie.
 
 Just tell CineMind what you're in the mood for.
 
-```text
+
 🍿 "Movies like Interstellar"
 🖤 "I want a dark psychological thriller"
 ❤️ "Give me something emotional and inspiring"
