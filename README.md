@@ -8,6 +8,8 @@ Instead of simply matching keywords, CineMind AI combines **semantic search + ve
 
 > 🧠 **RAG + NLP + Vector Search + Gemini = Your AI Movie Companion**
 
+<img width="1024" height="404" alt="image" src="https://github.com/user-attachments/assets/52ae386d-0bf8-42c1-af84-4b93322a7087" />
+
 ---
 
 ## 🎥 What Can CineMind AI Do?
